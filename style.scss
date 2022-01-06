@@ -60,6 +60,11 @@ input[type="range"] {
   display: flex;
   .box-1 {
     flex: 1;
+    color: #ef2f88;
+    font-family: "Staatliches", cursive;
+    font-size: 2rem;
+    margin: auto 0;
+    padding: 0.5rem;
   }
   .box-2 {
     flex: 3;
@@ -74,5 +79,10 @@ input[type="range"] {
   }
   .box-3 {
     flex: 1;
+    color: #370665;
+    font-family: "Staatliches", cursive;
+    font-size: 2rem;
+    margin: auto 0;
+    padding: 2rem;
   }
 }
